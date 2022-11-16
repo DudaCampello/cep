@@ -14,6 +14,7 @@ public class ClienteRestController {
 
     @GetMapping
     public ResponseEntity<Iterable<Cliente>> buscarTodos() {
+
         return ResponseEntity.ok(clienteService.buscarTodos());
     }
 

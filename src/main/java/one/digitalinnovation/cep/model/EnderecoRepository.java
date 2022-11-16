@@ -1,4 +1,4 @@
-package one.digitalinnovation.cep.repository;
+package one.digitalinnovation.cep.model;
 
 import one.digitalinnovation.cep.model.Endereco;
 import org.springframework.data.repository.CrudRepository;

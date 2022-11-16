@@ -2,8 +2,8 @@ package one.digitalinnovation.cep.service.impl;
 
 import one.digitalinnovation.cep.model.Cliente;
 import one.digitalinnovation.cep.model.Endereco;
-import one.digitalinnovation.cep.repository.ClienteRepository;
-import one.digitalinnovation.cep.repository.EnderecoRepository;
+import one.digitalinnovation.cep.model.ClienteRepository;
+import one.digitalinnovation.cep.model.EnderecoRepository;
 import one.digitalinnovation.cep.service.ClienteService;
 import one.digitalinnovation.cep.service.ViaCepService;
 import org.springframework.beans.factory.annotation.Autowired;
